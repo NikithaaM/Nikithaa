@@ -1,0 +1,7 @@
+.nav-bar{
+    display: flex;
+    background-color: aquamarine;
+    padding:15px;
+    list-style-type: none;
+    justify-content:space-between;
+}
